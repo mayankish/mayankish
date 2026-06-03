@@ -22,7 +22,9 @@
 
 ## ⚡ Who Am I?
 
-I'm **Mayank**  an engineering student who fell in love with hardware and never looked back.
+I'm **Mayank Singh**  an engineering Undergrad student who likes to Experiment, Test and Fabricate.
+
+I’m fascinated by systems that sense, think, communicate, and act. From autonomous robots and UAVs to radar, embedded systems, and intelligent machines, I enjoy learning whatever a challenge demands and building solutions from first principles.
 
 I build things that exist in the **physical world**  circuits, sensors, robots  and then make them *smart* by bridging them with **computer vision and machine learning**. My happy place is where a soldering iron meets a Python script.
 
