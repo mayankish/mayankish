@@ -205,7 +205,7 @@ Deployed a quantised CV model on Raspberry Pi 4 for real-time inference at the e
 ## 📬 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mayank-singh-324562407)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankish@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankish.work@gmail.com)
 [![Hackaday](https://img.shields.io/badge/Hackaday-1A1A1A?style=for-the-badge&logo=hackaday&logoColor=white)](https://hackaday.io/mayankish)
 
 
