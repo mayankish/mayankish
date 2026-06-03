@@ -52,6 +52,14 @@ $ echo $CURRENT_STATUS
 <br clear="right"/>
 
 ---
+Welcome to my profile! Here are some of my featured projects:
+
+<!-- SHOWCASE-START -->
+<!-- SHOWCASE-END -->
+
+Feel free to explore and contribute!
+
+---
 
 ## 🛠️ Things I've Built
 
