@@ -1,163 +1,186 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED HEADER WAVE                       -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:7c3aed,100:06b6d4&height=200&section=header&text=mayankish&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Building%20things%20that%20matter%20%E2%80%94%20one%20commit%20at%20a%20time&descAlignY=58&descSize=18&animation=twinkling" />
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     TYPING ANIMATION                           -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:0f3460,75:16213e,100:0f3460&height=220&section=header&text=mayankish&fontSize=75&fontColor=00ff88&fontAlignY=38&desc=Electronics%20Engineer%20%7C%20Embedded%20Systems%20%7C%20AI%20on%20Hardware&descAlignY=60&descSize=17&animation=twinkling" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=%F0%9F%9A%80+Full-Stack+Developer;%F0%9F%A7%A0+Problem+Solver+%26+Open+Source+Enthusiast;%E2%9C%A8+Turning+Coffee+into+Clean+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00FF88&center=true&vCenter=true&multiline=true&random=false&width=650&height=100&lines=%F0%9F%94%8C+Hardware+Guy+who+writes+clean+firmware;%F0%9F%A4%96+Teaching+machines+to+see+%26+sense+the+world;%F0%9F%93%A1+From+breadboards+to+deployed+ML+models)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     VISITOR + PROFILE BADGES                   -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<img src="https://komarev.com/ghpvc/?username=mayankish&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=mayankish&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/mayankish?color=06b6d4&logo=github&style=for-the-badge&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/mayankish?color=00b4d8&logo=github&style=for-the-badge&label=FOLLOWERS" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-violet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to%20Collabs-%E2%9A%A1-00ff88?style=for-the-badge" />
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     ABOUT ME                                   -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<img align="right" alt="electronics gif" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<img align="right" alt="coding" width="370" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+## ⚡ Who Am I?
 
-## 🧑‍💻 About Me
+I'm **Mayank**  an engineering student who fell in love with hardware and never looked back.
 
-```yaml
-name       : Mayank
-username   : mayankish
-located_in : India 🇮🇳
-currently  : Building awesome projects
-learning   : Always something new
-hobbies    : Coding, exploring tech, coffee
+I build things that exist in the **physical world**  circuits, sensors, robots  and then make them *smart* by bridging them with **computer vision and machine learning**. My happy place is where a soldering iron meets a Python script.
+
+```bash
+$ whoami
+> mayankish
+
+$ cat interests.txt
+> Embedded Systems & Firmware
+> IoT & Wireless Protocols (RF, MQTT, BLE)
+> Edge AI & Computer Vision
+> Sensor Fusion & Time-Series ML
+> Robotics & Automation
+> Model Deployment on constrained hardware
+
+$ echo $CURRENT_STATUS
+> Engineering student — building in the real world
 ```
 
-- 🔭 &nbsp;Working on something **exciting** right now
-- 🌱 &nbsp;Currently leveling up in **system design & cloud architecture**
-- 💬 &nbsp;Ask me about anything — I'm an open book
-- ⚡ &nbsp;Fun fact: I debug in my dreams (no really)
-- 🤝 &nbsp;Open to **collabs, open source & cool ideas**
-- 📫 &nbsp;Reach me at **[github.com/mayankish](https://github.com/mayankish)**
+- 🔌 &nbsp;I prototype on **Arduino, ESP32 & Raspberry Pi**
+- 📡 &nbsp;Fascinated by **RF comms** and wireless sensor networks
+- 🤖 &nbsp;Building robots that can **see, sense and decide**
+- 🧠 &nbsp;Deploying ML models where compute is **scarce and power matters**
+- 🔭 &nbsp;Currently exploring **TinyML & Edge AI**
+- ☕ &nbsp;Fuelled by curiosity and bad hostel coffee
 
 <br clear="right"/>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     TECH STACK                                 -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+## 🛠️ Things I've Built
+
+> *Real hardware. Real data. Real results.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 SmartNode — IoT Sensor Hub
+`ESP32` `MQTT` `Python` `Time-Series ML`
+
+Wireless sensor network collecting environmental data across nodes. Backend pipeline runs anomaly detection using time-series ML to flag outliers in real time.
+
+**Highlights:** OTA firmware · MQTT broker · Anomaly model · Live dashboard
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 VisionBot — CV-Guided Robot
+`Raspberry Pi` `OpenCV` `Python` `Arduino`
+
+Autonomous robot using a Pi camera + OpenCV for real-time object detection and tracking. Pi handles vision logic; Arduino drives the motors.
+
+**Highlights:** PID tracking · Object classification · UART Pi↔Arduino bridge
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📻 RF Mesh Network
+`Arduino` `nRF24L01` `C++`
+
+Custom RF mesh network built from scratch to relay sensor data across nodes — no Wi-Fi, no cloud. Designed for low-power, infrastructure-free environments.
+
+**Highlights:** Multi-hop routing · CRC error checking · Sub-1GHz range
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Edge Inference Engine
+`Raspberry Pi` `TensorFlow Lite` `OpenCV` `Docker`
+
+Deployed a quantised CV model on Raspberry Pi 4 for real-time inference at the edge. Containerised with Docker for clean, reproducible deployment.
+
+**Highlights:** INT8 quantisation · 15+ FPS on Pi 4 · REST API · MLOps pipeline
+
+</td>
+</tr>
+</table>
+
+> 💡 *Pin your actual repos on your profile and link them here!*
+
+---
 
 <div align="center">
 
-## 🛠️ Tech Arsenal
+## 🧰 Tech Stack
+
+### 🔩 Hardware & Embedded
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 
 ### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+### 🧠 AI / ML
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### ⚙️ Tools & DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
 ---
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS                               -->
-<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 📊 GitHub Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayankish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=c9d1d9&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankish&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=06b6d4&currStreakLabel=7c3aed&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayankish&show_icons=true&theme=merko&hide_border=true&bg_color=0a0a0a&title_color=00ff88&icon_color=00b4d8&text_color=c9d1d9&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankish&theme=merko&hide_border=true&background=0a0a0a&ring=00ff88&fire=00b4d8&currStreakLabel=00ff88&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" />
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankish&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&layout=compact&langs_count=8" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankish&theme=merko&hide_border=true&bg_color=0a0a0a&title_color=00ff88&text_color=c9d1d9&layout=compact&langs_count=8" />
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     TROPHIES                                   -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=mayankish&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=mayankish&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     ACTIVITY GRAPH                             -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankish&bg_color=0d1117&color=7c3aed&line=06b6d4&point=ffffff&area=true&area_color=7c3aed&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankish&bg_color=0a0a0a&color=00ff88&line=00b4d8&point=ffffff&area=true&area_color=0f3460&hide_border=true" />
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     SNAKE ANIMATION                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-## 🐍 Eating My Contributions
-
-> ⚙️ **Setup required:** Add a GitHub Action to generate the snake SVG.
-> See setup instructions below the README.
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayankish/mayankish/output/github-snake-dark.svg" />
@@ -169,51 +192,37 @@ hobbies    : Coding, exploring tech, coffee
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     CONNECT                                    -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-## 🌐 Let's Connect
+## 📬 Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayankish)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mayankish)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://mayankish.dev)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mayankish)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mayank-singh-324562407)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankish@gmail.com)
+[![Hackaday](https://img.shields.io/badge/Hackaday-1A1A1A?style=for-the-badge&logo=hackaday&logoColor=white)](https://hackaday.io/mayankish)
+
 
 <br/>
 
-### 💡 A Quote I Live By
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"Hardware is hard. That's why I love it."*
 
 </div>
 
----
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     FOOTER WAVE                                -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:0d0d0d&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0a0a0a&height=120&section=footer" />
 
 <div align="center">
-  <sub>⭐ From <a href="https://github.com/mayankish">mayankish</a> — crafted with ❤️ and ☕</sub>
+  <sub>⚡ Built from scratch by <a href="https://github.com/mayankish">mayankish</a> — where circuits meet code</sub>
 </div>
 
 ---
 
 <!--
 ╔══════════════════════════════════════════════════════════════════╗
-║              🐍 SNAKE ANIMATION SETUP (GitHub Action)            ║
+║           🐍 SNAKE ANIMATION — GitHub Action Setup               ║
 ╚══════════════════════════════════════════════════════════════════╝
 
-Create this file: .github/workflows/snake.yml
-
+Create: .github/workflows/snake.yml
 ───────────────────────────────────────────────────────────────────
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
   schedule:
@@ -223,7 +232,6 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
