@@ -203,7 +203,8 @@ Deployed a quantised CV model on Raspberry Pi 4 for real-time inference at the e
 
 <br/>
 
-> *"Hardware is hard. That's why I love it."*
+> *"Phase shifting through challenges,
+shaping life's signal through perfect convolution 💡"*
 
 </div>
 
