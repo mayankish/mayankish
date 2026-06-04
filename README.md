@@ -57,6 +57,24 @@ $ echo $CURRENT_STATUS
 ## Welcome to my profile! Here are some of my featured projects:
 
 <!-- SHOWCASE-START -->
+## 🚀 My Projects
+
+<div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 4px">
+
+<a href="https://github.com/mayankish/5G-NR-OFDM-Transceiver---RTL-FPGA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayankish&repo=5G-NR-OFDM-Transceiver---RTL-FPGA&theme=default&show_owner=true&description_lines_count=2&hide=&hide_language=false&show_icons=true&show_stars=false&show_forks=false&show_topics=false" />
+</a>
+
+<a href="https://github.com/mayankish/SV-AXI4Lite-SVA-GLS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayankish&repo=SV-AXI4Lite-SVA-GLS&theme=default&show_owner=true&description_lines_count=2&hide=&hide_language=false&show_icons=true&show_stars=false&show_forks=false&show_topics=false" />
+</a>
+
+</div>
+
+
+---
+*Updated on June 4, 2026*
+
 <!-- SHOWCASE-END -->
 
 Feel free to explore and contribute!
