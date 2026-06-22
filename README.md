@@ -132,7 +132,7 @@ Deployed a quantised CV model on Raspberry Pi 4 for real-time inference at the e
 </tr>
 </table>
 
-> 💡 *Pin your actual repos on your profile and link them here!*
+> 💡 *Repos will be uploaded sooon, Stay Tuned!*
 
 ---
 
